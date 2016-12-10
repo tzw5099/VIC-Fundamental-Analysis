@@ -1,4 +1,7 @@
 ## VIC NLP Analysis and Modeling
+
+Please begin by viewing the accompanying presentation: **[Presentation](./presentation/CrowdValue.pdf)
+
 #### Problem
 Can professional investors consistently outperform the market? Yes!* (*not accounting for risk)
 How can we employ fundamental valuation investment write-ups in order to reliably identify investments that will outperform the market?
