@@ -1,0 +1,5 @@
+**/credentials.py
+**/credentials.pyc
+**.ipynb_checkpoints/
+*.pyc
+
